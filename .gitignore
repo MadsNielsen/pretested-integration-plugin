@@ -1,6 +1,7 @@
 *.class
 /target
 /work
+/test
 
 # Package Files #
 *.jar
